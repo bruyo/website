@@ -1,2 +1,2 @@
 # website
-creating a website git.
+creating a website with git.
